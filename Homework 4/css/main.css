@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    color: white;
+    background-color: orange;
+    text-align: center;  
+}
+#title{
+    color: white;
+    background-color: green;
+    text-align: end;
+}
+div{
+    border-left: 12px solid red;
+    /* border: 2px dashed red; */
+    /* border: 2px dotted red; */
+    /* border: 7px double red; */
+    width: 600px;
+    /* height: 300px; */
+    
+    background-color: orange;
+    color: white;
+    padding: 40px;
+    margin: 50px;
+    text-align: right;
+}
+.box h1{
+    text-align: left;
+}
